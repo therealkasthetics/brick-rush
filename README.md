@@ -8,16 +8,12 @@ The terms used in this Privacy Policy have the same meanings as in Terms and Con
 
 #### Log Data
 
-I want to inform you that whenever you use my Service, I do not collect any Personal Data and Information (through third-party products) on your phone. 
+I want to inform you that I have employed third-party companies and individuals to:
 
-#### Service Providers
-
-I may employ third-party companies and individuals in the future due to the following reasons:
-
-* To facilitate my Service;
-* To provide the Service on my behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how my Service is used.
+* Facilitate my Service;
+* Provide the Service on my behalf;
+* Perform Service-related services; or
+* Assist me in analyzing how my Service is used.
 
 I want to inform users of this Service that these third parties will have access to their Personal Information. The reason is to perform the tasks assigned to them on my behalf. However, they will be obligated not to disclose or use the information for any other purpose.
 
