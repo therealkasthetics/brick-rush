@@ -1,10 +1,10 @@
 ## Privacy Policy
 
-Kanwar Abhijit Singh has built the BrickRush app as a Free app. This Service is provided by Kanwar Abhijit Singh at no cost and is intended for use as is.
+Kanwar Abhijit Singh has built the Brick Rush app as a Free app. This Service is provided by Kanwar Abhijit Singh at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-The terms used in this Privacy Policy have the same meanings as in Terms and Conditions, which are accessible at BrickRush unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in Terms and Conditions, which are accessible at Brick Rush unless otherwise defined in this Privacy Policy.
 
 #### Log Data
 
